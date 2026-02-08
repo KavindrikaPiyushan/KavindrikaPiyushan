@@ -127,10 +127,10 @@ const kavindrika = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KavindrikaPiyushan&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="GitHub Stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavindrikaPiyushan&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=1800" />
-</div>
+</div> -->
 
 <!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=KavindrikaPiyushan&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&sideNums=00D9FF&dates=c9d1d9" alt="GitHub Streak" />
