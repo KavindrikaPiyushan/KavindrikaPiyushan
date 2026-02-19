@@ -30,7 +30,7 @@ const kavindrika = {
     currentSGPA: 3.6,
     passions: ["Full Stack Development", "Mobile App Development", "Problem Solving", "UI/UX Designing"],
     currentlyLearning: ["Advanced React Patterns", "System Design", "Cloud Technologies"],
-    funFact: ["Football Player","Badminton Player","Sports Enthsiast"]
+    funFact: ["Football Player","Badminton Player","Sports Enthsiast"],
     lifePhilosophy: "Work smart, stay passionate, embrace every challenge 💪",
     availableFor: ["Software Engineering Opportunities","Freelancing Projects"]
 };
