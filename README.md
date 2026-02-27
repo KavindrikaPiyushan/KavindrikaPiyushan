@@ -173,7 +173,6 @@ const kavindrika = {
 - 🌱 **Learning:** Cloud technologies, microservices, and system design
 - 👯 **Open to:** Collaborate on innovative web and IoT projects
 - 💼 **Seeking:** Software Engineering opportunities
-- ⚡ **Ask me about:** React, Node.js, MongoDB, IoT development
 - 📫 **Reach me:** kavindrikapiyushan@gmail.com
 
 <br clear="right"/>
